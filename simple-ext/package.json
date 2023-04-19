@@ -1,0 +1,17 @@
+{
+  "name": "simple-ext",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "@prisma/client": "latest"
+  },
+  "devDependencies": {
+    "@prisma/client": "latest",
+    "prisma": "latest",
+    "typescript": "4.9.4"
+  }
+}

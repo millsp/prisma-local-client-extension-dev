@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "@prisma/client": "latest",
+    "simple-ext": "../simple-ext/simple-ext-0.0.0.tgz"
+  },
+  "devDependencies": {
+    "@types/node": "16.18.11",
+    "prisma": "latest",
+    "typescript": "4.9.4"
+  }
+}
